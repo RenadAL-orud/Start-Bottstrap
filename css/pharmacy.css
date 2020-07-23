@@ -1,0 +1,146 @@
+body{
+
+}
+.img 
+{
+ width: 100%;
+
+ background-image: url(../img/p1.jpg);
+ background-color: #cccccc;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+  
+  color: #fff;
+ ]  
+
+}
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 0rem; 
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+.icon {
+	
+	    color: #fff;
+    font-size: 40px;
+    padding-top: 18px;
+}
+.ph1{
+	    color: #fff;
+    font-size: 40px;
+    margin: 0 0 20px;
+    font-family: Roboto Slab;
+}
+    .ph2{color: #fff;
+    font-size: 12px;
+    font-family: Roboto Slab;
+    text-transform: uppercase;
+    letter-spacing: 3px;}
+    .ph4{
+    	    font-size: 14px;
+    color: #555;
+padding-top: 100px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+  
+    }
+    .ph5 {
+    	    color: #000000;
+    margin-bottom:50px;
+    font-size: 36px
+    }
+    .icon2{
+    	color: #ed1b24;
+    font-size: 14px;
+    border: solid;
+    border-radius: 12px;
+    margin-right: 12px;"
+    }
+    .ph7{
+       color: #555;
+    }
+ 
+ .ph8{
+ 	color: #fff;
+ 	 background: #ed1b24;
+ }
+ .icon3 {    
+font-size: 40px;
+    color:  #f25a61;
+    width: 90px;
+    height: 90px;
+    line-height: 88px;
+    border-radius: 50%;
+    border: solid;
+    border-color:  #ed1b24;
+}
+.p8{
+
+  color: #555;
+}
+.ph11{
+	border: solid;
+	border-width: 0.1
+}
+.icon4 {
+	    color: #333;
+    font-size: 75px;
+    padding-top: 40px;
+} 
+.ph12{
+	font-size: 25px;
+  padding-bottom: 30px;
+    color: #111;
+ 
+
+}
+.ph10 h2 {
+margin-bottom: 100px;
+}
+.ph13{
+
+    font-size: 16px;
+ 
+    letter-spacing: 0.3px;
+    color: #ed1b24;
+}
+.card {
+	
+    border: 0px;
+   
+}
+.ph14{
+	margin-top: 80px;
+  background: #fafafa;
+}
+.ph14 h3 {
+	color: #000;
+	font-size: 20px;
+}
+a:hover p  .icon3{
+   background-color: #ed1b24;
+  
+  
+    border-radius: 50%;
+    border: solid;
+  display: inline-block;
+}
+
+a:hover  {
+  color: #ed1b24;
+ 
+  
+}
+.icon5 {
+      font-size: 22px;
+    color: #ed1b24;
+     padding-left: 6px;"
+}
+
+
+.ph21 {
+   padding-bottom: 30px; padding-top: 20px;color: #fff;
+       margin-bottom: 0rem;
+}

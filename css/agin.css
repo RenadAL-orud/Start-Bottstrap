@@ -1,0 +1,69 @@
+
+
+
+.img 
+{
+ width: 100%;
+
+ background-image: url(../img/2.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+    text-align: center;
+    line-height: 55px;
+}
+.bakco{
+	background: #fff;
+}
+.bosu{
+	margin-left: 160px;
+}
+.h1p{
+	color: #fff;
+}
+.right{
+	margin-left: 500px;
+}
+.na {
+	background-color: red;
+}
+
+.kn {
+	font-size: 12px;
+}
+.hn{
+	color: blue; 
+	font-size: 12px;
+}
+#pop {
+padding-top: 80px; margin-left: 50px;
+}
+.thelast .form-inline {
+   
+    background: #fff;
+    margin-top: 30px;
+}
+
+.thelast .btn-primary {
+    /* float: right; */
+  
+    margin-top: 13px;
+
+}
+
+
+.thelast .form-control-plaintext {
+
+    margin-left: 30px;
+}
+ .thelast h3 ,p {
+ margin-left: 20px;
+    margin-top: 23px;
+    color: #000;
+   
+    padding-bottom: 30px;
+}
+.thelast {
+	background: #33d6ff;
+
+}

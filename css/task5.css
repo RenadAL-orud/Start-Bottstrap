@@ -1,0 +1,112 @@
+body {
+}
+.backcolnav{
+	background-color: #003366;
+}
+.backimg img {
+	 width: 17%;
+ background-image: url(../img/avataaars.svg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+
+
+  
+
+}
+.backimg h1 {
+	padding-top: 70px;
+color: #fff;
+}
+.backimg p {
+	padding-bottom: 90px;
+	color: #fff;
+
+}
+.img1 img {
+	 width: 100%;
+
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+ 	background-image: url(../img/cabin.png);
+}
+.img2 img {
+	
+	 width: 100%;
+
+
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+ 	background-image: url(../img/cake.png);
+}
+.img3 img {
+	
+	 width: 100%;
+
+
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+ 	background-image: url(../img/circus.png);
+}
+.maleft{
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+.img4 img {
+	
+	 width: 100%;
+
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+ 	background-image: url(../img/game.png);
+}
+.img5 img {
+
+	 width: 100%;
+
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+ 	background-image: url(../img/safe.png);
+}
+.img6 img {
+
+	 width: 100%;
+
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+ 	background-image: url(../img/submarine.png);
+}
+.about{
+	color: #fff;
+}
+.about p{
+	font-size: 20px;
+	text-align: justify;
+}
+.butfree{
+	background: #00e6ac;
+	margin-bottom: 40px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #f8f9fa;
+  
+    border-bottom-color: #adb5bd;
+    font-size: 20px;
+}

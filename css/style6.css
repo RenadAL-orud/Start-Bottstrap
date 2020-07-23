@@ -1,0 +1,74 @@
+div .b  {
+  width: 80px;
+  height: 80px;
+border:solid;
+
+
+}
+div.a {
+  width: 80px;
+  height: 80px;
+
+border:solid;
+  transform: rotate(40deg);
+}
+
+
+div .e ,.d,.f {
+	width: 20px;
+	border: solid;
+	border-radius: 20px;
+}
+div .e {
+  width: 20px;
+	border: solid;
+	border-radius: 20px;
+
+  background: #fff;
+  transition: width 3s;
+  transition-delay: 1s;
+}
+
+div .e:hover {
+  background: red;
+}
+div .d {
+  width: 20px;
+	border: solid;
+	border-radius: 20px;
+
+  background: #fff;
+  transition: width 3s;
+  transition-delay: 1s;
+}
+
+div .d:hover {
+  background: #decb1f;
+}
+div .f {
+  width: 20px;
+	border: solid;
+	border-radius: 20px;
+
+  background: #fff;
+  transition: width 3s;
+  transition-delay: 1s;
+}
+
+div .f:hover {
+  background: green;
+}
+
+div .s {
+  width: 20px;
+	border: solid;
+	border-radius: 20px;
+
+  background: #fff;
+  transition: width 3s;
+  transition-delay: 1s;
+}
+
+div .s:hover {
+  background: #decb1f;
+}

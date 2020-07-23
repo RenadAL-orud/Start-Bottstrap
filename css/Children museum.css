@@ -1,0 +1,44 @@
+body {
+
+}
+.img
+{
+ width: 100%;
+
+ background-image: url(../img/m1.jpg);
+ background-color: #cccccc;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+  color: #fff;
+ 
+
+}
+.bu1 {
+	float: right;
+}
+.icon5 {
+      font-size: 22px;
+    color: #ed1b24;
+     padding-left: 6px;"
+}
+
+.im {
+    
+
+  transition-delay: 1s;
+  
+  
+  animation-name:  example2;
+  animation-duration: 1s;
+  animation-delay: 1s;
+   transform: rotate(0deg);
+     animation-iteration-count: infinite;	
+  
+
+}
+@keyframes example2 {
+ 0% { transform: rotate(20deg);}
+  75% { transform: rotate(500deg);}
+  100%{ transform: rotate(0deg);}
+}

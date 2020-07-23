@@ -1,0 +1,103 @@
+	body {
+		
+	}
+
+.myDiv1 iframe{
+
+  float: left;
+   margin-left:80px;
+margin-right: 80px;
+padding-bottom: 50px;
+
+}
+.myDiv1  p {
+
+	margin-top: 70px;
+	margin-left: 20px;
+	color: #334d4d;
+
+	font-size: 20px;
+	margin-right: 50px;
+	margin-left: 80px;
+}
+
+.top-left {
+  position: absolute;
+  top: 100px;
+ 
+  font-size: 60px;
+  margin-left:100px;
+}
+
+
+.top-left #textimg {
+	font-size: 25px;
+	color: #adad85;
+}
+ #logo6 button {
+	
+	background: #1a8cff;
+	height: 40px;
+	
+	border-radius: 8px
+}
+
+#logo6 button  b{
+	font-size: 20px;
+	
+	
+	color:#fff;
+	
+}
+
+div.card.mb-3 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: hidden;
+}
+
+
+div.card.mb-3 p {
+    margin-top: -25px;
+    margin-bottom: 1rem;
+}
+
+.text-muted i {
+	padding-right: 12px;
+}
+ .thelast .form-inline {
+   
+    background: #fff;
+    margin-top: 30px;
+}
+
+.thelast .btn-primary {
+    /* float: right; */
+  
+    margin-top: 13px;
+
+}
+
+
+.thelast .form-control-plaintext {
+
+    margin-left: 30px;
+}
+ .thelast h3 ,p {
+ margin-left: 20px;
+    margin-top: 23px;
+    color: #000;
+   
+    padding-bottom: 30px;
+}
+.thelast {
+	background: #33d6ff;
+
+}
